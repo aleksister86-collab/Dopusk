@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- карточка-документ -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M34,28 h28 l12,12 v40 a4,4 0 0 1 -4,4 h-36 a4,4 0 0 1 -4,-4 v-48 a4,4 0 0 1 4,-4 z" />
+    <path android:fillColor="#BBD0FF"
+        android:pathData="M62,28 l12,12 h-8 a4,4 0 0 1 -4,-4 z" />
+    <!-- галочка -->
+    <path android:strokeColor="#1E5BD8" android:strokeWidth="6"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M42,60 L50,68 L66,50" />
+</vector>
